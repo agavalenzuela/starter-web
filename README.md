@@ -5,3 +5,7 @@
 ## Purpose
 
 Sample website with plenty of files for demos
+
+## How to Contribute
+
+Please for this repository and then issue pull request for review.
